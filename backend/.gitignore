@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+users.db
+/extract_text/temp.docx
+/extract_text/temp.pdf
+/extract_text/temp.pptx
